@@ -1,0 +1,51 @@
+#wrapper {
+	width:60%;
+	margin: auto;
+	margin-top: 200px;
+}
+form{
+	margin:auto;
+	width:90%;
+}
+fieldset{
+	margin: auto;
+}
+}
+/*
+taken out because it is apparently excessive
+#refine-search-form input[type=text]{
+	display: block;	
+	background-color: grey;
+}
+#refine-search{
+	display: none;
+}
+*/
+
+
+.result img {
+	
+}
+
+.clear { /*clears floating divs*/
+	clear: both;
+}
+.result{
+	width:33%;
+	margin:auto;	
+	float:left;
+	border-style:dotted;
+	border-width:1px;
+	
+	padding: 0px;
+	display: block;
+	
+}
+#results{
+	width: 100%
+	margin: auto;
+}
+
+#search-fieldset form {
+	width: 100%;
+}
